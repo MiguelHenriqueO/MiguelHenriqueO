@@ -29,4 +29,4 @@ Sou apaixonado por tecnologia desde que me conheço por gente e por isso decidi 
 
 <br>
  
- ![Snake animation](https://github.com/MiguelHenriqueO)
+
