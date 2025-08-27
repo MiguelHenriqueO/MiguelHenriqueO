@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Miguel Henrique, Tenho 20 Anos e Sou de SP. <br>
+Me chamo Miguel Henrique, Tenho 20 Anos e Sou de Franca-SP. <br>
 Conclui o ensino médio na escola CEDE e atualmente estou graduando Ciência da Computação na UNI-Facef. <br>
 Sou apaixonado por tecnologia desde que me conheço por gente e por isso decidi fazer parte deste mundo.
 
