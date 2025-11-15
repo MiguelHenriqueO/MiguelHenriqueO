@@ -1,32 +1,54 @@
-# 🎓 Miguel Henrique
-
-**`Estudante de Ciência da Computação`**
-
-Me chamo Miguel Henrique, Tenho 20 Anos e Sou de Franca-SP. <br>
-Conclui o ensino médio na escola CEDE e atualmente estou graduando Ciência da Computação na UNI-Facef. <br>
-Sou apaixonado por tecnologia desde que me conheço por gente e por isso decidi fazer parte deste mundo.
-
- ##
+<div align="center">
+  
+  <samp>
+      <br>
+     <h1> Hi there! I'm <b>Miguel Henrique</b> </h1>
+  </samp>
+</div>
 <br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelHenriqueO&show_icons=true&theme=transparent&hide=prs)
-
-<div>
-<img align=center height=30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> -
-<img align=center height=30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> -
-<img align=center height=30 width= 40  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align=center height=50 width= 80  src="![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
-
-
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=800080&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Welcome!" alt="Typing SVG"/>
 </div>
 
-  ##
+<br>
+
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelHenriqueO&theme=tokyonight"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelHenriqueO&theme=tokyonight"/>
+  <br>
+  <br>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelHenriqueO&theme=tokyonight"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:miguelhenriqueisaac@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=Discord&logoColor=fff)]([https://discord.gg/8kc8HqXVw2](https://discord.com/users/432340065981693962))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/kamilly-medino-b72a3b33a/](https://www.linkedin.com/in/miguel-henrique-isaac-de-oliveira-856515247/))
+  
+</div>
 
 <div>
-    <a href="mailto:miguelhenriqueisaac@gmail.com" target="_blank"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> <target="_blank"> </a>
-    <a href="https://github.com/MiguelHenriqueO" target="_blank"><img src= https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white> <target="_blank"> </a>
-    <a href="https://www.linkedin.com/in/miguel-henrique-isaac-de-oliveira-856515247/" target="_blank"><img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> <target="_blank"></a>
+    
 </div>
  
 
