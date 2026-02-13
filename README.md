@@ -43,7 +43,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:miguelhenriqueisaac@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=Discord&logoColor=fff)]([https://discord.gg/8kc8HqXVw2](https://discord.com/users/432340065981693962))
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/kamilly-medino-b72a3b33a/](https://www.linkedin.com/in/miguel-henrique-isaac-de-oliveira-856515247/))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=fff)]((https://www.linkedin.com/in/miguel-henrique-isaac-de-oliveira-856515247/))
   
 </div>
 
