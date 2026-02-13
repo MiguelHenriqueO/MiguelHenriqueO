@@ -42,7 +42,6 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:miguelhenriqueisaac@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/432340065981693962)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miguel-henrique-isaac-de-oliveira-856515247/)
   
 </div>
