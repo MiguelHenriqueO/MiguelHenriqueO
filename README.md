@@ -31,6 +31,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" />
+  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg" />
 </div>
 
 <div align="center">
